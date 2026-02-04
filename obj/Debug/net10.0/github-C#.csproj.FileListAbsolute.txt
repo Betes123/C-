@@ -1,0 +1,15 @@
+E:\github-C#\obj\Debug\net10.0\github-C#.GeneratedMSBuildEditorConfig.editorconfig
+E:\github-C#\obj\Debug\net10.0\github-C#.AssemblyInfoInputs.cache
+E:\github-C#\obj\Debug\net10.0\github-C#.AssemblyInfo.cs
+E:\github-C#\obj\Debug\net10.0\github-C#.csproj.CoreCompileInputs.cache
+E:\github-C#\obj\Debug\net10.0\github-C#.sourcelink.json
+E:\github-C#\bin\Debug\net10.0\github-C#.exe
+E:\github-C#\bin\Debug\net10.0\github-C#.deps.json
+E:\github-C#\bin\Debug\net10.0\github-C#.runtimeconfig.json
+E:\github-C#\bin\Debug\net10.0\github-C#.dll
+E:\github-C#\bin\Debug\net10.0\github-C#.pdb
+E:\github-C#\obj\Debug\net10.0\github-C#.dll
+E:\github-C#\obj\Debug\net10.0\refint\github-C#.dll
+E:\github-C#\obj\Debug\net10.0\github-C#.pdb
+E:\github-C#\obj\Debug\net10.0\github-C#.genruntimeconfig.cache
+E:\github-C#\obj\Debug\net10.0\ref\github-C#.dll
