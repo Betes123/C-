@@ -1,7 +1,5 @@
 using System;
 
-namespace TinhTienDien
-{
     class KWH
     {
         const int muc1=100, muc2=150,muc3=300;
@@ -39,4 +37,3 @@ namespace TinhTienDien
             return sotien;
         }
     }
-}
